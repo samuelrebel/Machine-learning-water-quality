@@ -6,7 +6,7 @@ This folder contains the code and selected outputs prepared for sharing and revi
 
 ```text
 
-cripts/        Reproducible Python scripts for the full workflow
+Scripts/        Reproducible Python scripts for the full workflow
 scores/         Model performance, feature-importance, and validation figures
 visualization/  Monthly prediction maps and key-month comparison maps
 ```

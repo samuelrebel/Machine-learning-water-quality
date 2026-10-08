@@ -5,10 +5,10 @@ This folder contains the code and selected outputs prepared for sharing and revi
 ## Contents
 
 ```text
-publicatie/
-├── scripts/        Reproducible Python scripts for the full workflow
-├── scores/         Model performance, feature-importance, and validation figures
-└── visualization/  Monthly prediction maps and key-month comparison maps
+
+cripts/        Reproducible Python scripts for the full workflow
+scores/         Model performance, feature-importance, and validation figures
+visualization/  Monthly prediction maps and key-month comparison maps
 ```
 
 More detailed notes are available inside each subfolder:
